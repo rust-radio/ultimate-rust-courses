@@ -23,8 +23,15 @@ Rust Programming Fundamentals
 <details>
   <summary> Section 2: Fundamentals </summary>
 
-  -   [3.  ](contents)   
+  -   [3.  Cargo](contents/3_Cargo.md)   
   -   [4.  ](contents)   
+</details>
+
+<details>
+  <summary> Section 3: Primitive Types & Control Flow </summary>
+
+  -   [11. ](contents)   
+  -   [12. ](contents)   
 </details>
 
 
