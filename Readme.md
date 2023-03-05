@@ -17,7 +17,7 @@ Rust Programming Fundamentals
   <summary> Section 1: Introduction </summary>
 
   -   [1. Introduction](contents/1_Introduction.md)   
-  -   [2.  ](contents)   
+  -   [2. Exercises Overview](contents/2_Exercises-Overview.md)   
 </details>
 
 <details>
