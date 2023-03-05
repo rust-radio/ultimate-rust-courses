@@ -13,11 +13,21 @@ Rust Programming Fundamentals
 
 > 8 sections • 35 lectures • 2h 52m total length
 
-details>
+<details>
   <summary> Section 1: Introduction </summary>
 
-  1. Course Outline 
+  -   [1. Introduction](contents/1_Introduction.md)   
+  -   [2.  ](contents)   
 </details>
+
+<details>
+  <summary> Section 2: Fundamentals </summary>
+
+  -   [3.  ](contents)   
+  -   [4.  ](contents)   
+</details>
+
+
 
 ##  Requirements
 -   A basic understanding of general programming concepts
