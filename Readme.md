@@ -24,7 +24,9 @@ Rust Programming Fundamentals
   <summary> Section 2: Fundamentals </summary>
 
   -   [3.  Cargo](contents/3_Cargo.md)   
-  -   [4.  ](contents)   
+  -   [4.  Variables](contents/4_Variables.md)   
+  -   [5.  ](contents)   
+  -   [6.  ](contents)   
 </details>
 
 <details>
