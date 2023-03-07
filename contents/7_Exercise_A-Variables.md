@@ -1,4 +1,4 @@
-# 6. Memory Safety
+# 7. Exercise A - Variables
 
 -   ["Variables and Mutability" chapter from "the Book"](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html)
 
@@ -13,4 +13,4 @@
 
 ---
 
-[Previous](./5_Scope.md) | [Next](./7_Exercise_A-Variables.md)
+[Previous](./6_Memory-Safety.md) | [Next]()

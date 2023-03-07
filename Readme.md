@@ -27,7 +27,7 @@ Rust Programming Fundamentals
   -   [4.  Variables](contents/4_Variables.md)   
   -   [5.  Scope](contents/5_Scope.md)   
   -   [6.  Memory Safety](contents/6_Memory-Safety.md)   
-  -   [7.  ](contents)   
+  -   [7.  Exercise A - Variables](contents/7_Exercise_A-Variables.md)   
   -   [8.  ](contents)   
   -   [9.  ](contents)   
   -   [10. ](contents)   
