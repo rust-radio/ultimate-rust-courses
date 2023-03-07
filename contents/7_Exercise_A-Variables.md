@@ -7,10 +7,11 @@
 <details>
   <summary> Section 2: Fundamentals </summary>
 
-  - [Codebase: fundamentals](../src/s2_fundamentals/)
+  - [Codebase: s2_variables](../src/s2_variables/)
 
+  - [Codebase: fundamentals](../src/s2_fundamentals/)
 </details>
 
 ---
 
-[Previous](./6_Memory-Safety.md) | [Next]()
+[Previous](./6_Memory-Safety.md) | [Next](./8_Functions.md)

@@ -28,7 +28,7 @@ Rust Programming Fundamentals
   -   [5.  Scope](contents/5_Scope.md)   
   -   [6.  Memory Safety](contents/6_Memory-Safety.md)   
   -   [7.  Exercise A - Variables](contents/7_Exercise_A-Variables.md)   
-  -   [8.  ](contents)   
+  -   [8.  Functions](contents/8_Functions.md)   
   -   [9.  ](contents)   
   -   [10. ](contents)   
 </details>
