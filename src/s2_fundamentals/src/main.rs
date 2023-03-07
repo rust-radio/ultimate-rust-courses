@@ -15,4 +15,14 @@ fn main() {
     // println!("{}, {}", x, y); // error[E0425]: cannot find value `y` in this scope
     let x = x; // x is now immutable
 
+    // let enigma: i32; // error[E0381]: used binding `enigma` isn't initialized
+    // println!("{}", enigma);
+
+    let enigma:  i32;
+    if true {
+        enigma = 42;
+    } else {
+        enigma = 7;
+    }
+    println!("enigma is {}", enigma);
 }

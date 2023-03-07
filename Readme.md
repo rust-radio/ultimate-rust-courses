@@ -26,8 +26,11 @@ Rust Programming Fundamentals
   -   [3.  Cargo](contents/3_Cargo.md)   
   -   [4.  Variables](contents/4_Variables.md)   
   -   [5.  Scope](contents/5_Scope.md)   
-  -   [6.  ](contents)   
+  -   [6.  Memory Safety](contents/6_Memory-Safety.md)   
   -   [7.  ](contents)   
+  -   [8.  ](contents)   
+  -   [9.  ](contents)   
+  -   [10. ](contents)   
 </details>
 
 <details>

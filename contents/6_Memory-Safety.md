@@ -1,4 +1,4 @@
-# 5. Scope
+# 6. Memory Safety
 
 -   ["Variables and Mutability" chapter from "the Book"](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html)
 
@@ -13,4 +13,4 @@
 
 ---
 
-[Previous](./4_Variables.md) | [Next](./6_Memory-Safety.md)
+[Previous](./5_Scope.md) | [Next]()
