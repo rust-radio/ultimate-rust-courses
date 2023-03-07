@@ -17,14 +17,27 @@ Rust Programming Fundamentals
   <summary> Section 1: Introduction </summary>
 
   -   [1. Introduction](contents/1_Introduction.md)   
-  -   [2.  ](contents)   
+  -   [2. Exercises Overview](contents/2_Exercises-Overview.md)   
 </details>
 
 <details>
   <summary> Section 2: Fundamentals </summary>
 
-  -   [3.  ](contents)   
-  -   [4.  ](contents)   
+  -   [3.  Cargo](contents/3_Cargo.md)   
+  -   [4.  Variables](contents/4_Variables.md)   
+  -   [5.  Scope](contents/5_Scope.md)   
+  -   [6.  Memory Safety](contents/6_Memory-Safety.md)   
+  -   [7.  Exercise A - Variables](contents/7_Exercise_A-Variables.md)   
+  -   [8.  Functions](contents/8_Functions.md)   
+  -   [9.  ](contents)   
+  -   [10. ](contents)   
+</details>
+
+<details>
+  <summary> Section 3: Primitive Types & Control Flow </summary>
+
+  -   [11. ](contents)   
+  -   [12. ](contents)   
 </details>
 
 
