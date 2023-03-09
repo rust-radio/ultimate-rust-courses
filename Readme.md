@@ -29,7 +29,7 @@ Rust Programming Fundamentals
   -   [6.  Memory Safety](contents/6_Memory-Safety.md)   
   -   [7.  Exercise A - Variables](contents/7_Exercise_A-Variables.md)   
   -   [8.  Functions](contents/8_Functions.md)   
-  -   [9.  ](contents)   
+  -   [9.  Exercise B - Functions](contents/9_Exercise_B-Functions.md)   
   -   [10. ](contents)   
 </details>
 
