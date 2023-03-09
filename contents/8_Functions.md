@@ -7,7 +7,8 @@
 <details>
   <summary> Section 2: Fundamentals </summary>
 
-  - [Codebase: s2_functions](../src/s2_functions/)
+  - [Codebase: s2_functions](../codebase/s2_functions/)
+
 </details>
 
 ---

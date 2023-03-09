@@ -7,9 +7,9 @@
 <details>
   <summary> Section 2: Fundamentals </summary>
 
-  - [Codebase: s2_variables](../src/s2_variables/)
+  - [Codebase: s2_variables](../codebase/s2_variables/)
 
-  - [Codebase: fundamentals](../src/s2_fundamentals/)
+  - [Codebase: fundamentals](../codebase/s2_fundamentals/)
 </details>
 
 ---
