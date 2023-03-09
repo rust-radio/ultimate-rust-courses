@@ -5,7 +5,7 @@
 -   [Exercise C - Simple Types](https://github.com/CleanCut/ultimate_rust_crash_course/tree/main/exercise/c_simple_types)
 
 <details>
-  <summary> Section 2: Fundamentals </summary>
+  <summary> Section 3: Primitive Types & Control Flow </summary>
 
   - [Codebase: s2_module_system](../codebase/s2_module_system/)
 
@@ -13,4 +13,4 @@
 
 ---
 
-[Previous](./9_Exercise_B-Functions.md) | [Next]()
+[Previous](./9_Exercise_B-Functions.md) | [Next](./11_Scalar-Types.md)

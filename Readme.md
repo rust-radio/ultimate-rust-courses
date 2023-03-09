@@ -36,8 +36,15 @@ Rust Programming Fundamentals
 <details>
   <summary> Section 3: Primitive Types & Control Flow </summary>
 
-  -   [11. ](contents)   
+  -   [11. Scalar Types](contents/11_Scalar-Types.md)   
   -   [12. ](contents)   
+</details>
+
+<details>
+  <summary> Section 4: The Heart of Rust </summary>
+
+  -   [17. ](contents)   
+  -   [18. ](contents)   
 </details>
 
 
