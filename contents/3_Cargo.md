@@ -12,7 +12,7 @@
 <details>
   <summary> Section 2: Fundamentals </summary>
 
-  - [Codebase: fundamentals](../src/s2_fundamentals/)
+  - [Codebase: fundamentals](../codebase/s2_fundamentals/)
 
 </details>
 
