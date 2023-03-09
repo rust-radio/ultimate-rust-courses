@@ -1,4 +1,4 @@
-# 11. Scalar Types
+# 12. Compound Types
 
 -   ["Data Types" chapter from "the Book"](https://doc.rust-lang.org/book/ch03-02-data-types.html)
 
@@ -13,4 +13,4 @@
 
 ---
 
-[Previous](./10_Module-System.md) | [Next](./12_Compound-Types.md)
+[Previous](./11_Scalar-Types.md) | [Next]()

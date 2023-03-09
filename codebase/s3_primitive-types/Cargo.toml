@@ -1,5 +1,5 @@
 [package]
-name = "s3_scalar-types"
+name = "s3_primitive-types"
 version = "0.1.0"
 edition = "2021"
 

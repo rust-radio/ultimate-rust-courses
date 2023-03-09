@@ -37,7 +37,9 @@ Rust Programming Fundamentals
   <summary> Section 3: Primitive Types & Control Flow </summary>
 
   -   [11. Scalar Types](contents/11_Scalar-Types.md)   
-  -   [12. ](contents)   
+  -   [12. Compound Types](contents/12_Compound-Types.md)   
+  -   [13. ](contents)   
+  -   [14. ](contents)   
 </details>
 
 <details>
