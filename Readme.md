@@ -39,7 +39,9 @@ Rust Programming Fundamentals
   -   [11. Scalar Types](contents/11_Scalar-Types.md)   
   -   [12. Compound Types](contents/12_Compound-Types.md)   
   -   [13. Exercise C - Simple Types](contents/13_Exercise_C-Simple-Types.md)   
-  -   [14. ](contents)   
+  -   [14. Control Flow](contents/14_Control-Flow.md)   
+  -   [15. ](contents)   
+  -   [16. ](contents)   
 </details>
 
 <details>
