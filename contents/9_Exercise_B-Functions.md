@@ -1,4 +1,4 @@
-# 8. Functions
+# 9. Exercise B - Functions
 
 -   ["Functions" chapter from "the Book"](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html)
 
@@ -7,10 +7,10 @@
 <details>
   <summary> Section 2: Fundamentals </summary>
 
-  - [Codebase: s2_functions](../codebase/s2_functions/)
+  - [Codebase: s2_exercise_b](../codebase/s2_exercise_b/)
 
 </details>
 
 ---
 
-[Previous](./7_Exercise_A-Variables.md) | [Next](./9_Exercise_B-Functions.md)
+[Previous](./8_Functions.md) | [Next](./10_Module-System.md)
