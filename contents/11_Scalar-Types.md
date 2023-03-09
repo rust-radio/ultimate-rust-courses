@@ -7,7 +7,7 @@
 <details>
   <summary> Section 3: Primitive Types & Control Flow </summary>
 
-  - [Codebase: s3_primitive-types](../codebase/s3_primitive-types/)
+  - [Codebase: s3_exercise_c](../codebase/s3_exercise_c/)
 
 </details>
 

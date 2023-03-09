@@ -1,4 +1,6 @@
-# 12. Compound Types
+# 13. Exercise C - Simple Types
+
+-   ["Managing Growing Projects with Packages, Crates, and Modules" chapter from "the Book"](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html)
 
 -   ["Data Types" chapter from "the Book"](https://doc.rust-lang.org/book/ch03-02-data-types.html)
 
@@ -13,4 +15,4 @@
 
 ---
 
-[Previous](./11_Scalar-Types.md) | [Next](./13_Exercise_C-Simple-Types.md)
+[Previous](./12_Compound-Types.md) | [Next]()
