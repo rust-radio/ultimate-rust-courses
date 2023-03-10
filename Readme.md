@@ -41,7 +41,7 @@ Rust Programming Fundamentals
   -   [13. Exercise C - Simple Types](contents/13_Exercise_C-Simple-Types.md)   
   -   [14. Control Flow](contents/14_Control-Flow.md)   
   -   [15. Strings](contents/15_Strings.md)   
-  -   [16. ](contents)   
+  -   [16. Exercise D - Control Flow & Strings](contents/16_Exercise_D-Control-Flow-%26-Strings.md)   
 </details>
 
 <details>
