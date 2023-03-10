@@ -1,4 +1,6 @@
-# 18. References & Borrowing
+# 19. Exercise E - Ownership & References
+
+-   ["Understanding Ownership" chapter from "the Book"](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
 
 -   ["References and Borrowing" chapter from "the Book"](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
 
@@ -8,10 +10,10 @@
 <details>
   <summary> Section 4: The Heart of Rust </summary>
 
-  - [Codebase: s4_references-borrowing](../codebase/s4_references-borrowing/)
+  - [Codebase: s4_exercise_e](../codebase/s4_exercise_e/)
 
 </details>
 
 ---
 
-[Previous](./17_Ownership.md) | [Next](./19_Exercise_E-Ownership-%26-References.md)
+[Previous](./18_References-%26-Borrowing.md) | [Next]()

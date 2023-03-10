@@ -51,7 +51,7 @@ Rust Programming Fundamentals
 
   -   [17. Ownership](contents/17_Ownership.md)   
   -   [18. References & Borrowing](contents/18_References-%26-Borrowing.md)   
-  -   [19. ](contents)   
+  -   [19. Exercise E - Ownership & References](contents/19_Exercise_E-Ownership-%26-References.md)   
 </details>
 
 <details>
