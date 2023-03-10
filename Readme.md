@@ -50,7 +50,7 @@ Rust Programming Fundamentals
   <summary> Section 4: The Heart of Rust </summary>
 
   -   [17. Ownership](contents/17_Ownership.md)   
-  -   [18. ](contents)   
+  -   [18. References & Borrowing](contents/18_References-%26-Borrowing.md)   
   -   [19. ](contents)   
 </details>
 
