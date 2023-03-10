@@ -61,7 +61,27 @@ Rust Programming Fundamentals
   -   [21. ](contents)   
 </details>
 
+<details>
+  <summary> Section 6: Final Lectures </summary>
 
+  -   [26. ](contents)   
+  -   [27. ](contents)   
+  -   [28. ](contents)   
+</details>
+
+<details>
+  <summary> Section 7: Project - Invaders </summary>
+
+  -   [29. ](contents)   
+  -   [30. ](contents)   
+  -   [31. ](contents)   
+</details>
+
+<details>
+  <summary> Section 8: Final Words </summary>
+
+  -   [35. Thank You!](contents)
+</details>
 
 ##  Requirements
 -   A basic understanding of general programming concepts
