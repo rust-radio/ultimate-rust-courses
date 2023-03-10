@@ -2,6 +2,8 @@
 
 -   [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/)
 
+-   [Ultimate Rust 2: Intermediate Concepts](https://www.udemy.com/course/ultimate-rust-2/)
+
 Rust Programming Fundamentals
 
 ##  What you'll learn
@@ -47,8 +49,16 @@ Rust Programming Fundamentals
 <details>
   <summary> Section 4: The Heart of Rust </summary>
 
-  -   [17. ](contents)   
-  -   [18. ](contents)   
+  -   [17. Ownership](contents/17_Ownership.md)   
+  -   [18. References & Borrowing](contents/18_References-%26-Borrowing.md)   
+  -   [19. Exercise E - Ownership & References](contents/19_Exercise_E-Ownership-%26-References.md)   
+</details>
+
+<details>
+  <summary> Section 5: The Meat of Rust </summary>
+
+  -   [20. ](contents)   
+  -   [21. ](contents)   
 </details>
 
 

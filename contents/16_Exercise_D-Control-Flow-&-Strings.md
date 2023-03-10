@@ -16,4 +16,4 @@
 
 ---
 
-[Previous](./15_Strings.md) | [Next]()
+[Previous](./15_Strings.md) | [Next](./17_Ownership.md)
