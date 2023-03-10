@@ -36,8 +36,19 @@ Rust Programming Fundamentals
 <details>
   <summary> Section 3: Primitive Types & Control Flow </summary>
 
-  -   [11. ](contents)   
-  -   [12. ](contents)   
+  -   [11. Scalar Types](contents/11_Scalar-Types.md)   
+  -   [12. Compound Types](contents/12_Compound-Types.md)   
+  -   [13. Exercise C - Simple Types](contents/13_Exercise_C-Simple-Types.md)   
+  -   [14. Control Flow](contents/14_Control-Flow.md)   
+  -   [15. Strings](contents/15_Strings.md)   
+  -   [16. ](contents)   
+</details>
+
+<details>
+  <summary> Section 4: The Heart of Rust </summary>
+
+  -   [17. ](contents)   
+  -   [18. ](contents)   
 </details>
 
 
