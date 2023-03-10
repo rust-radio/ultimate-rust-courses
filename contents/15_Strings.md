@@ -1,6 +1,6 @@
-# 14. Control Flow
+# 15. Strings
 
--   ["Control Flow" chapter from "the Book"](https://doc.rust-lang.org/book/ch03-05-control-flow.html)
+-   ["Storing UTF-8 Encoded Text with Strings" chapter from "the Book"](https://doc.rust-lang.org/book/ch08-02-strings.html)
 
 -   [Exercise D - Control Flow Strings](https://github.com/CleanCut/ultimate_rust_crash_course/tree/main/exercise/d_control_flow_strings)
 
@@ -14,4 +14,4 @@
 
 ---
 
-[Previous](./12_Compound-Types.md) | [Next](./15_Strings.md)
+[Previous](./14_Control-Flow.md) | [Next]()

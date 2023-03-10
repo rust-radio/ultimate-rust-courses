@@ -40,7 +40,7 @@ Rust Programming Fundamentals
   -   [12. Compound Types](contents/12_Compound-Types.md)   
   -   [13. Exercise C - Simple Types](contents/13_Exercise_C-Simple-Types.md)   
   -   [14. Control Flow](contents/14_Control-Flow.md)   
-  -   [15. ](contents)   
+  -   [15. Strings](contents/15_Strings.md)   
   -   [16. ](contents)   
 </details>
 
