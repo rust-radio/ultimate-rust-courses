@@ -23,4 +23,4 @@
 
 ---
 
-[Previous](./20_Structs.md) | [Next]()
+[Previous](./20_Structs.md) | [Next](./22_Exercise_F-Structs-%26-Traits.md)
