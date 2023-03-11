@@ -2,6 +2,8 @@
 
 -   [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/)
 
+-   [https://github.com/CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course)
+
 -   [Ultimate Rust 2: Intermediate Concepts](https://www.udemy.com/course/ultimate-rust-2/)
 
 Rust Programming Fundamentals
@@ -57,8 +59,12 @@ Rust Programming Fundamentals
 <details>
   <summary> Section 5: The Meat of Rust </summary>
 
-  -   [20. ](contents)   
+  -   [20. Structs](contents/20_Structs.md)   
   -   [21. ](contents)   
+  -   [22. ](contents)   
+  -   [23. ](contents)   
+  -   [24. ](contents)   
+  -   [25. ](contents)   
 </details>
 
 <details>
@@ -75,6 +81,9 @@ Rust Programming Fundamentals
   -   [29. ](contents)   
   -   [30. ](contents)   
   -   [31. ](contents)   
+  -   [32. ](contents)   
+  -   [33. ](contents)   
+  -   [34. ](contents)   
 </details>
 
 <details>
