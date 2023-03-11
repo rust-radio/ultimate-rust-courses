@@ -7,6 +7,12 @@
 <details>
   <summary> Section 5: The Meat of Rust </summary>
 
+  - [Codebase: 21. Traits](../codebase/ultimate-rust-crash-course/c21_traits/)
+</details>
+
+<details>
+  <summary> Section 5: The Meat of Rust </summary>
+
   - [Codebase: 10 Generic Types, Traits, and Lifetimes](../codebase/s5_generic/)
 
   - [Codebase: 10.1.1 Generic Data Types - In Function Definitions](../codebase/s5_generic/)
@@ -23,4 +29,4 @@
 
 ---
 
-[Previous](./20_Structs.md) | [Next]()
+[Previous](./20_Structs.md) | [Next](./22_Exercise_F-Structs-%26-Traits.md)

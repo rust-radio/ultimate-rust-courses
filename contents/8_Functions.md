@@ -7,7 +7,7 @@
 <details>
   <summary> Section 2: Fundamentals </summary>
 
-  - [Codebase: s2_functions](../codebase/s2_functions/)
+  - [Codebase: c2_functions](../codebase/ultimate-rust-crash-course/c2_functions/)
 
 </details>
 

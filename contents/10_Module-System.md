@@ -7,7 +7,7 @@
 <details>
   <summary> Section 3: Primitive Types & Control Flow </summary>
 
-  - [Codebase: s2_module_system](../codebase/s2_module_system/)
+  - [Codebase: c2_module_system](../codebase/ultimate-rust-crash-course/c2_module_system/)
 
 </details>
 

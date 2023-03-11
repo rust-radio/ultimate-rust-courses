@@ -61,7 +61,7 @@ Rust Programming Fundamentals
 
   -   [20. Structs](contents/20_Structs.md)   
   -   [21. Traits](contents/21_Traits.md)   
-  -   [22. ](contents)   
+  -   [22. Exercise F - Structs & Traits](contents/22_Exercise_F-Structs-%26-Traits.md)   
   -   [23. ](contents)   
   -   [24. ](contents)   
   -   [25. ](contents)   
@@ -113,11 +113,11 @@ This course is the first in the Ultimate Rust series. If you like this course, t
 -   A desire to begin using Rust
 
 ## Extra
+-   [Beginning C++ Programming - From Beginner to Beyond](https://github.com/rust-radio/beginning-cpp-programming-from-beginner-to-beyond)
 -   [WebAssembly Beginner to Advanced](https://www.udemy.com/course/webassembly/)
 -   [Rust & WebAssembly with JS (TS) - The Practical Guide](https://www.udemy.com/course/rust-webassembly-with-js-ts-the-practical-guide/)
 -   [Rust Programming For Beginners](https://www.udemy.com/course/rust-coding-for-beginners/)
 -   [Rust Programming Master Class: From Beginner to Expert](https://www.udemy.com/course/rust-programming-master-class-from-beginner-to-expert/)
 -   [Solana Blockchain Developer Bootcamp with Rust + JavaScript](https://www.udemy.com/course/solana-developer/)
--   [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
 -   [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap)
 -   [https://roadmap.sh/computer-science](https://roadmap.sh/computer-science)
