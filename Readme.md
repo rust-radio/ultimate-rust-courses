@@ -60,7 +60,7 @@ Rust Programming Fundamentals
   <summary> Section 5: The Meat of Rust </summary>
 
   -   [20. Structs](contents/20_Structs.md)   
-  -   [21. ](contents)   
+  -   [21. Traits](contents/21_Traits.md)   
   -   [22. ](contents)   
   -   [23. ](contents)   
   -   [24. ](contents)   
