@@ -16,4 +16,4 @@
 
 ---
 
-[Previous](./18_References-%26-Borrowing.md) | [Next]()
+[Previous](./18_References-%26-Borrowing.md) | [Next](./20_Structs.md)

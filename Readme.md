@@ -2,6 +2,8 @@
 
 -   [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/)
 
+-   [https://github.com/CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course)
+
 -   [Ultimate Rust 2: Intermediate Concepts](https://www.udemy.com/course/ultimate-rust-2/)
 
 Rust Programming Fundamentals
@@ -57,11 +59,38 @@ Rust Programming Fundamentals
 <details>
   <summary> Section 5: The Meat of Rust </summary>
 
-  -   [20. ](contents)   
-  -   [21. ](contents)   
+  -   [20. Structs](contents/20_Structs.md)   
+  -   [21. Traits](contents/21_Traits.md)   
+  -   [22. Exercise F - Structs & Traits](contents/22_Exercise_F-Structs-%26-Traits.md)   
+  -   [23. ](contents)   
+  -   [24. ](contents)   
+  -   [25. ](contents)   
 </details>
 
+<details>
+  <summary> Section 6: Final Lectures </summary>
 
+  -   [26. ](contents)   
+  -   [27. ](contents)   
+  -   [28. ](contents)   
+</details>
+
+<details>
+  <summary> Section 7: Project - Invaders </summary>
+
+  -   [29. ](contents)   
+  -   [30. ](contents)   
+  -   [31. ](contents)   
+  -   [32. ](contents)   
+  -   [33. ](contents)   
+  -   [34. ](contents)   
+</details>
+
+<details>
+  <summary> Section 8: Final Words </summary>
+
+  -   [35. Thank You!](contents)
+</details>
 
 ##  Requirements
 -   A basic understanding of general programming concepts

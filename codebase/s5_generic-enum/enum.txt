@@ -1,0 +1,9 @@
+ChatGPT: In this example, we use the File::open method to try to open a file named hello.txt. This method returns a Result<File, std::io::Error> value, which represents either a successful File object or an error of type std::io::Error.
+
+We use a match statement to pattern match on the result of File::open. In the first arm of the match for Ok(file), we extract the File object from the Ok variant and use it to read the contents of the file into a String. If the read is successful, we return the contents of the String wrapped in the Ok variant. If the read fails, we return an error message wrapped in the Err variant.
+
+In the second arm of the match for Err(ref e) if e.kind() == ErrorKind::NotFound, we check if the error is of the NotFound kind, which indicates that the file wasn't found. If it is, we return a "file not found" error message wrapped in the Err variant.
+
+In the third arm of the match for Err(e), we return the error message wrapped in the Err variant.
+
+When we run this code with a file named hello.txt present in the same directory, we'll get the contents of the file printed out. If the file is not present, we'll get a "file not found" error message printed out.
