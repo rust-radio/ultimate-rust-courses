@@ -1,6 +1,6 @@
 # 20. Structs
 
--   ["Using Structs to Structure Related Data" chapter from "the Book"](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
+-   ["5. Using Structs to Structure Related Data" chapter from "the Book"](https://doc.rust-lang.org/book/ch05-00-structs.html)
 
 -   [Exercise F - Control Flow Strings](https://github.com/CleanCut/ultimate_rust_crash_course/tree/main/exercise/f_structs_traits)
 
@@ -8,17 +8,23 @@
 <details>
   <summary> Section 5: The Meat of Rust </summary>
 
-  - [Codebase: s5_struct](../codebase/s5_struct/)
+  - [Codebase: 20. Structs](../codebase/ultimate-rust-crash-course/c20_structs/)
+</details>
 
-  - [Codebase: s5_struct-tuples](../codebase/s5_struct-tuples/)
+<details>
+  <summary> The Book: 5. Using Structs to Structure Related Data </summary>
 
-  - [Codebase: s5_struct-unit_like](../codebase/s5_struct-unit_like/)
+  - [Codebase: s5_struct](../codebase/5_Using-Structs-to-Structure-Related-Data/s5_struct/)
 
-  - [Codebase: s5_struct-ownership](../codebase/s5_struct-ownership/)
+  - [Codebase: s5_struct-tuples](../codebase/5_Using-Structs-to-Structure-Related-Data/s5_struct-tuples/)
 
-  - [Codebase: 5.2 An Example Program Using Structs](../codebase/s5_struct-example/)
+  - [Codebase: s5_struct-unit_like](../codebase/5_Using-Structs-to-Structure-Related-Data/s5_struct-unit_like/)
 
-  - [Codebase: 5.3 Method Syntax](../codebase/s5_struct-methods/)
+  - [Codebase: s5_struct-ownership](../codebase/5_Using-Structs-to-Structure-Related-Data/s5_struct-ownership/)
+
+  - [Codebase: 5.2 An Example Program Using Structs](../codebase/5_Using-Structs-to-Structure-Related-Data/s5_struct-example/)
+
+  - [Codebase: 5.3 Method Syntax](../codebase/5_Using-Structs-to-Structure-Related-Data/s5_struct-methods/)
 </details>
 
 ---

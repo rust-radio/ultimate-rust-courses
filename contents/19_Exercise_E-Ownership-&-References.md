@@ -10,7 +10,7 @@
 <details>
   <summary> Section 4: The Heart of Rust </summary>
 
-  - [Codebase: s4_exercise_e](../codebase/s4_exercise_e/)
+  - [Codebase: s4_exercise_e](../codebase/ultimate-rust-crash-course/s4_exercise_e/)
 
 </details>
 

@@ -7,7 +7,7 @@
 <details>
   <summary> Section 2: Fundamentals </summary>
 
-  - [Codebase: s2_exercise_b](../codebase/s2_exercise_b/)
+  - [Codebase: s2_exercise_b](../codebase/ultimate-rust-crash-course/s2_exercise_b/)
 
 </details>
 

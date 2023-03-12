@@ -6,9 +6,17 @@
 
 
 <details>
+  <summary> The Book: 4. Understanding Ownership </summary>
+
+  - [Codebase: s4_ownership](../codebase/4_Understanding-Ownership/s4_ownership/)
+  - [Codebase: s4_references-borrowing](../codebase/4_Understanding-Ownership/s4_references-borrowing/)
+
+</details>
+
+<details>
   <summary> Section 4: The Heart of Rust </summary>
 
-  - [Codebase: s4_references-borrowing](../codebase/s4_references-borrowing/)
+  - [Codebase: s4_exercise_e](../codebase/ultimate-rust-crash-course/s4_exercise_e/)
 
 </details>
 

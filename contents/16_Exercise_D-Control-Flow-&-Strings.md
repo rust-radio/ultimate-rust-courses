@@ -10,7 +10,7 @@
 <details>
   <summary> Section 3: Primitive Types & Control Flow </summary>
 
-  - [Codebase: s3_exercise_d](../codebase/s3_exercise_d/)
+  - [Codebase: s3_exercise_d](../codebase/ultimate-rust-crash-course/s3_exercise_d/)
 
 </details>
 

@@ -12,7 +12,7 @@
 <details>
   <summary> Section 2: Fundamentals </summary>
 
-  - [Codebase: fundamentals](../codebase/s2_fundamentals/)
+  - [Codebase: fundamentals](../codebase/ultimate-rust-crash-course/s2_fundamentals/)
 
 </details>
 
