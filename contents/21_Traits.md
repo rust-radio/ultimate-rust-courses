@@ -8,6 +8,7 @@
   <summary> Section 5: The Meat of Rust </summary>
 
   - [Codebase: 21. Traits](../codebase/ultimate-rust-crash-course/c21_traits/)
+  - [Codebase: 21. Traits Red Fox](../codebase/ultimate-rust-crash-course/c21_traits-red-fox/)
 </details>
 
 <details>
