@@ -4,11 +4,13 @@
 
 -   [Exercise F - Control Flow Strings](https://github.com/CleanCut/ultimate_rust_crash_course/tree/main/exercise/f_structs_traits)
 
+-   [Rust takes the composition over inheritance approach](../codebase/ultimate-rust-crash-course/c20_composition-over-inheritance/Readme.md)
 
 <details>
   <summary> Section 5: The Meat of Rust </summary>
 
   - [Codebase: 20. Structs](../codebase/ultimate-rust-crash-course/c20_structs/)
+  - [Codebase: 20. Structs - composition over inheritance](../codebase/ultimate-rust-crash-course/c20_composition-over-inheritance/)
 </details>
 
 <details>

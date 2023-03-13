@@ -1,6 +1,6 @@
 # 21. Traits
 
--   ["10.2 Traits: Defining Shared Behavior" chapter from "the Book"](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
+-   ["10.2 Traits: Defining Shared Behavior" chapter from "the Book"](https://doc.rust-lang.org/book/ch10-02-traits.html)
 
 -   [Exercise F - Control Flow Strings](https://github.com/CleanCut/ultimate_rust_crash_course/tree/main/exercise/f_structs_traits)
 
@@ -8,6 +8,7 @@
   <summary> Section 5: The Meat of Rust </summary>
 
   - [Codebase: 21. Traits](../codebase/ultimate-rust-crash-course/c21_traits/)
+  - [Codebase: 21. Traits Red Fox](../codebase/ultimate-rust-crash-course/c21_traits-red-fox/)
 </details>
 
 <details>

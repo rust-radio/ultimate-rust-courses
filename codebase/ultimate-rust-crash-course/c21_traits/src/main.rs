@@ -1,3 +1,13 @@
+trait Run {
+    fn run(&self){
+        println!("I'm running");
+    }
+}
+
+struct Robot {}
+impl Run for Robot {}
+
 fn main() {
-    println!("Hello, world!");
+    let robot = Robot {};
+    robot.run();
 }

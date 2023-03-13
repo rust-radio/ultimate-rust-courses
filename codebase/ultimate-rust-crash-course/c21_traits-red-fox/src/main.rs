@@ -1,12 +1,26 @@
 use std::fmt;
 
-// a `RedFox` struct
+trait Noisy {
+    fn get_noise(&self) -> &str;
+}
+
+fn print_noise<T: Noisy>(item: T) {
+    println!("{}", item.get_noise());
+}
+
+impl Noisy for u8 {
+    fn get_noise(&self) -> &str { "BYTE!" }
+}
+
 struct RedFox {
     enemy: bool,    
     life: u8,
 }
 
-//  implements the `fmt::Display` trait for a `RedFox` struct.
+impl Noisy for RedFox {
+    fn get_noise(&self) -> &str { "Meow?" }
+}
+
 impl fmt::Display for RedFox {
     fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
         write!(
@@ -19,7 +33,6 @@ impl fmt::Display for RedFox {
     }
 }
 
-// constructor 
 impl RedFox {
     fn new() -> Self {
         Self {
@@ -27,13 +40,6 @@ impl RedFox {
             life: 70,
         }
     }
-    /*
-    // associated function
-    fn function();
-    fn move(self);
-    fn borrow(&self);
-    fn mut_borrow(&mut self);
-    */
 }
 
 
@@ -53,4 +59,9 @@ fn main() {
 
     println!("life_left: {}", life_left); 
     println!("fox2: {}", fox2); 
+
+    print_noise(fox1); // prints "Meow?"
+    print_noise(fox2); // prints "Meow?"
+    print_noise(5_u8); // prints "BYTE!"    
+    //print_noise(2_u16); // error[E0277]: the trait bound `u16: Noisy` is not satisfied
 }
