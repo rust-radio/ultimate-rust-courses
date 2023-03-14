@@ -20,76 +20,76 @@ Rust Programming Fundamentals
 <details>
   <summary> Section 1: Introduction </summary>
 
-  -   [1. Introduction](crash-course/1_Introduction.md)   
-  -   [2. Exercises Overview](crash-course/2_Exercises-Overview.md)   
+  -   [1. Introduction](1_Introduction.md)   
+  -   [2. Exercises Overview](2_Exercises-Overview.md)   
 </details>
 
 <details>
   <summary> Section 2: Fundamentals </summary>
 
-  -   [3.  Cargo](crash-course/3_Cargo.md)   
-  -   [4.  Variables](crash-course/4_Variables.md)   
-  -   [5.  Scope](crash-course/5_Scope.md)   
-  -   [6.  Memory Safety](crash-course/6_Memory-Safety.md)   
-  -   [7.  Exercise A - Variables](crash-course/7_Exercise_A-Variables.md)   
-  -   [8.  Functions](crash-course/8_Functions.md)   
-  -   [9.  Exercise B - Functions](crash-course/9_Exercise_B-Functions.md)   
-  -   [10. Module System](crash-course/10_Module-System.md)   
+  -   [3.  Cargo](3_Cargo.md)   
+  -   [4.  Variables](4_Variables.md)   
+  -   [5.  Scope](5_Scope.md)   
+  -   [6.  Memory Safety](6_Memory-Safety.md)   
+  -   [7.  Exercise A - Variables](7_Exercise_A-Variables.md)   
+  -   [8.  Functions](8_Functions.md)   
+  -   [9.  Exercise B - Functions](9_Exercise_B-Functions.md)   
+  -   [10. Module System](10_Module-System.md)   
 </details>
 
 <details>
   <summary> Section 3: Primitive Types & Control Flow </summary>
 
-  -   [11. Scalar Types](crash-course/11_Scalar-Types.md)   
-  -   [12. Compound Types](crash-course/12_Compound-Types.md)   
-  -   [13. Exercise C - Simple Types](crash-course/13_Exercise_C-Simple-Types.md)   
-  -   [14. Control Flow](crash-course/14_Control-Flow.md)   
-  -   [15. Strings](crash-course/15_Strings.md)   
-  -   [16. Exercise D - Control Flow & Strings](crash-course/16_Exercise_D-Control-Flow-%26-Strings.md)   
+  -   [11. Scalar Types](11_Scalar-Types.md)   
+  -   [12. Compound Types](12_Compound-Types.md)   
+  -   [13. Exercise C - Simple Types](13_Exercise_C-Simple-Types.md)   
+  -   [14. Control Flow](14_Control-Flow.md)   
+  -   [15. Strings](15_Strings.md)   
+  -   [16. Exercise D - Control Flow & Strings](16_Exercise_D-Control-Flow-%26-Strings.md)   
 </details>
 
 <details>
   <summary> Section 4: The Heart of Rust </summary>
 
-  -   [17. Ownership](crash-course/17_Ownership.md)   
-  -   [18. References & Borrowing](crash-course/18_References-%26-Borrowing.md)   
-  -   [19. Exercise E - Ownership & References](crash-course/19_Exercise_E-Ownership-%26-References.md)   
+  -   [17. Ownership](17_Ownership.md)   
+  -   [18. References & Borrowing](18_References-%26-Borrowing.md)   
+  -   [19. Exercise E - Ownership & References](19_Exercise_E-Ownership-%26-References.md)   
 </details>
 
 <details>
   <summary> Section 5: The Meat of Rust </summary>
 
-  -   [20. Structs](crash-course/20_Structs.md)   
-  -   [21. Traits](crash-course/21_Traits.md)   
-  -   [22. Exercise F - Structs & Traits](crash-course/22_Exercise_F-Structs-%26-Traits.md)   
-  -   [23. Collections](crash-course/23_Collections.md)   
-  -   [24. Enums](crash-course/24_Enums.md)   
-  -   [25. Exercise G - Collections & Enums](crash-course/25_Exercise_G-Collections-%26-Enums.md)   
+  -   [20. Structs](20_Structs.md)   
+  -   [21. Traits](21_Traits.md)   
+  -   [22. Exercise F - Structs & Traits](22_Exercise_F-Structs-%26-Traits.md)   
+  -   [23. Collections](23_Collections.md)   
+  -   [24. Enums](24_Enums.md)   
+  -   [25. Exercise G - Collections & Enums](25_Exercise_G-Collections-%26-Enums.md)   
 </details>
 
 <details>
   <summary> Section 6: Final Lectures </summary>
 
-  -   [26. ](crash-course)   
-  -   [27. ](crash-course)   
-  -   [28. ](crash-course)   
+  -   [26. ]()   
+  -   [27. ]()   
+  -   [28. ]()   
 </details>
 
 <details>
   <summary> Section 7: Project - Invaders </summary>
 
-  -   [29. ](crash-course)   
-  -   [30. ](crash-course)   
-  -   [31. ](crash-course)   
-  -   [32. ](crash-course)   
-  -   [33. ](crash-course)   
-  -   [34. ](crash-course)   
+  -   [29. ]()   
+  -   [30. ]()   
+  -   [31. ]()   
+  -   [32. ]()   
+  -   [33. ]()   
+  -   [34. ]()   
 </details>
 
 <details>
   <summary> Section 8: Final Words </summary>
 
-  -   [35. Thank You!](crash-course)
+  -   [35. Thank You!]()
 </details>
 
 ##  Requirements
