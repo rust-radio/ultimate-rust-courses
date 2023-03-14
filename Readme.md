@@ -70,7 +70,7 @@ Rust Programming Fundamentals
 <details>
   <summary> Section 6: Final Lectures </summary>
 
-  -   [26. ](crash-course)   
+  -   [26. Closures](crash-course/26_Closures.md)   
   -   [27. ](crash-course)   
   -   [28. ](crash-course)   
 </details>

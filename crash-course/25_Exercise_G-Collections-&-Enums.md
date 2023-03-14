@@ -36,4 +36,4 @@
 
 ---
 
-[Previous](./24_Enums.md) | [Next]()
+[Previous](./24_Enums.md) | [Next](./26_Closures.md)

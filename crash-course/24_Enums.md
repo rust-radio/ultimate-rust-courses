@@ -4,7 +4,7 @@
 
 -   ["8. Common Collections" chapter from "the Book"](https://doc.rust-lang.org/book/ch08-00-common-collections.html)
 
--   [Exercise F - Control Flow Strings](https://github.com/CleanCut/ultimate_rust_crash_course/tree/main/exercise/g_collections_enums)
+-   [Exercise G - Control Flow Strings](https://github.com/CleanCut/ultimate_rust_crash_course/tree/main/exercise/g_collections_enums)
 
 <details>
   <summary> Section 5: The Meat of Rust </summary>
