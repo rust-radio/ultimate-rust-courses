@@ -12,7 +12,7 @@
 </details>
 
 <details>
-  <summary> Section 5: The Meat of Rust </summary>
+  <summary> the Book: 10. Generic Types, Traits, and Lifetimes </summary>
 
   - [Codebase: 10 Generic Types, Traits, and Lifetimes](../codebase/s5_generic/)
 

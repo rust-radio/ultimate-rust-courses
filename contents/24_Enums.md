@@ -1,4 +1,4 @@
-# 23. Collections
+# 24. Enums
 
 -   ["6. Enums and Pattern Matching" chapter from "the Book"](https://doc.rust-lang.org/book/ch06-00-enums.html)
 
@@ -9,18 +9,10 @@
 <details>
   <summary> Section 5: The Meat of Rust </summary>
 
-  - [Codebase: 23. Collections](../codebase/ultimate-rust-crash-course/c23_collections/)
+  - [Codebase: 24. Enums](../codebase/ultimate-rust-crash-course/c24_enums/)
 
   - [Codebase: s5_exercise_g](../codebase/ultimate-rust-crash-course/s5_exercise_g/)
   
-</details>
-
-<details>
-  <summary> The Book: 8. Common Collections </summary>
-
-  - [Codebase: 8.1 Storing Lists of Values with Vectors](../codebase/8_Common-Collections/vectors-sort-lists/)
-  - [Codebase: 8.2 Storing UTF-8 Encoded Text with Strings](../codebase/8_Common-Collections/text_w_strings/)
-
 </details>
 
 <details>
@@ -33,7 +25,15 @@
   - [Codebase: 6.2 The match Control Flow Construct - Matching with Option<T>](../codebase/6_Enums-and-Pattern-Matching/match_T_enum/)
 </details>
 
+<details>
+  <summary> The Book: 8. Common Collections </summary>
+
+  - [Codebase: 8.1 Storing Lists of Values with Vectors](../codebase/8_Common-Collections/vectors-sort-lists/)
+  - [Codebase: 8.2 Storing UTF-8 Encoded Text with Strings](../codebase/8_Common-Collections/text_w_strings/)
+
+</details>
+
 
 ---
 
-[Previous](./22_Exercise_F-Structs-%26-Traits.md) | [Next](./24_Enums.md)
+[Previous](./23_Collections.md) | [Next](./25_Exercise_G-Collections-%26-Enums.md)

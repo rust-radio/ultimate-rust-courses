@@ -62,8 +62,8 @@ Rust Programming Fundamentals
   -   [20. Structs](contents/20_Structs.md)   
   -   [21. Traits](contents/21_Traits.md)   
   -   [22. Exercise F - Structs & Traits](contents/22_Exercise_F-Structs-%26-Traits.md)   
-  -   [23. ](contents)   
-  -   [24. ](contents)   
+  -   [23. Collections](contents/23_Collections.md)   
+  -   [24. Enums](contents/24_Enums.md)   
   -   [25. ](contents)   
 </details>
 

@@ -15,4 +15,4 @@
 
 ---
 
-[Previous](./20_Structs.md) | [Next](./23_Collections.md)
+[Previous](./21_Traits.md) | [Next](./23_Collections.md)
